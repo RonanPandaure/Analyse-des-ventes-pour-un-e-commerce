@@ -10,7 +10,7 @@ Le projet consiste à la création d'une présentation powerpoint sur les diffé
 
 <h2> Outils maîtrisés </h2>
 
-- <b> Excel: Traitement des données brutes, calculs (totaux, moyennes, formulas), graphiques dynamiques, tableaux de bord </b>
+ Excel: Traitement des données brutes, calculs (totaux, moyennes, formulas), graphiques dynamiques, tableaux de bord </b>
 - <b> PowerPoint: Création d’un diaporama synthétique avec un graphique par diapo </b>
 - <b> Techniques de storytelling: Structuration de la présentation orale pour captiver (mise en contexte → problème → données → recommandation) </b>
 
@@ -37,8 +37,8 @@ Le projet consiste à la création d'une présentation powerpoint sur les diffé
 
 
 
-<h2>Program walk-through:</h2>
-https://imgur.com/irL6jBt.png
+<h2>Présentation du projet:</h2>
+
 <p align="center">
 Evolution du CA par segment: <br/>
 <img src="https://imgur.com/irL6jBt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
